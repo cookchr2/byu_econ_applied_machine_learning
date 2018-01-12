@@ -211,3 +211,5 @@ In accordance with Title IX of the Education Amendments of 1972, Brigham Young U
 
 ### Student Disability
 Brigham Young University is committed to providing a working and learning atmosphere that reasonably accommodates qualified persons with disabilities. If you have any disability which may impair your ability to complete this course successfully, please contact the Services for Students with Disabilities Office (422-2767). Reasonable academic accommodations are reviewed for all students who have qualified, documented disabilities. Services are coordinated with the student and instructor by the SSD Office. If you need assistance or if you feel you have been unlawfully discriminated against on the basis of disability, you may seek resolution through established grievance policy and procedures by contacting the Equal Employment Office at 422-5895,D-285 ASB.
+
+###Great!
